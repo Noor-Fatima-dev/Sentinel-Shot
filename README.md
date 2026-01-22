@@ -25,4 +25,4 @@ The game is built using:
 * **Core Concepts:** Coordinate-based rendering (`gotoxy`), ASCII character buffer reading, and array-based entity management.
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Sentinel-Shot.git](https://github.com/YourUsername/Sentinel-Shot.git)
+   git clone [https://github.com/YourUsername/Sentinel-Shot.git](https://github.com/Noor-Fatima-dev/Sentinel-Shot.git)
